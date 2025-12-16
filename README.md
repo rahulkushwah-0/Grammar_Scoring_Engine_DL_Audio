@@ -188,14 +188,7 @@ submission.to_csv('submission.csv', index=False)
 ```
 
 ---
-
-## 🏆 Tips to Improve Kaggle Score
-
-* Use **Whisper large-v2**
-* Add **pause / filler word features**
-* Ensemble with **XGBoost**
-* Use **BERT embeddings** from transcribed text
-* Normalize scores
+ Normalize scores
 
 ---
 
@@ -203,8 +196,5 @@ submission.to_csv('submission.csv', index=False)
 
 ✔ Fully automated grammar scoring
 ✔ Kaggle-compatible pipeline
-✔ Resume-ready ML project
 
----
 
-**Author:** Grammar Scoring Engine | ML + Speech Processing
